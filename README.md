@@ -10,6 +10,6 @@ What are the benefits of using this booking website?
 
 
 <p align="center">
-<img src="/github-repo-media/login-page.jpeg" width="50%" height="auto">
-<img src="/github-repo-media/venues-page.jpeg" width="50%" height="auto">
+<img src="/github-repo-media/login-page.png" width="50%" height="auto">
+<img src="/github-repo-media/venues-page.png" width="50%" height="auto">
 </p>

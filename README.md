@@ -7,6 +7,7 @@ What are the benefits of using this booking website?
 - Direct and quick access to a catalog of venues offered by Etiya.
 - No prior communication needed before booking a venue, pick your venue, choose your date, and book!
 - Admins can esaily manage bookings from different customers by viewing, deleting, editing, and changing status of customer bookings.
+- Customers can use the help center to chat to an AI chatbot configured to answer customer questions.
 
 ### Website
 <p align="center">
@@ -23,3 +24,4 @@ What are the benefits of using this booking website?
 - CSS 3
 - TailwindCSS 3
 - MySQL
+- Microsoft Azure

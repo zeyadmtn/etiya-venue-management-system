@@ -8,8 +8,18 @@ What are the benefits of using this booking website?
 - No prior communication needed before booking a venue, pick your venue, choose your date, and book!
 - Admins can esaily manage bookings from different customers by viewing, deleting, editing, and changing status of customer bookings.
 
-
+### Website
 <p align="center">
 <img src="/github-repo-media/login-page.png" width="100%" height="auto">
 <img src="/github-repo-media/venues-page.png" width="100%" height="auto">
 </p>
+
+### Tech Stack Used:
+- PHP 8.2
+- Laravel 10
+- Alpine.js
+- jQuery
+- HTML 5
+- CSS 3
+- TailwindCSS 3
+- MySQL

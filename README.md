@@ -6,6 +6,7 @@ Etiya is a company that provides venues to customers in Malaysia on their premis
 What are the benefits of using this booking website?
 - Direct and quick access to a catalog of venues offered by Etiya.
 - No prior communication needed before booking a venue, pick your venue, choose your date, and book!
+- Customers will receive email updates regarding their bookings.
 - Admins can esaily manage bookings from different customers by viewing, deleting, editing, and changing status of customer bookings.
 - Customers can use the help center to chat to an AI chatbot configured to answer customer questions.
 
